@@ -1,0 +1,16 @@
+
+/** ADD YOUR AWESOME CODES HERE **/
+.BackgroundImage{
+
+background-image: url("../images/new.jpg");
+
+background-repeat: no-repeat; /* for vertical repeat */
+
+background-position: top; /* for horizontal repeat */
+
+height:390px;
+
+width:1350px;
+
+}
+
